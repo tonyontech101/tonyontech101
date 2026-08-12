@@ -29,7 +29,7 @@ I am a developer interested in artificial intelligence, machine learning, comput
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,java,cpp" alt="Programming Languages">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,java" alt="Programming Languages">
 </p>
 
 ### Frameworks and Libraries
